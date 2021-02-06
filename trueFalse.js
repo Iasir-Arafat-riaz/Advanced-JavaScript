@@ -10,3 +10,11 @@ if (number){
 else{
     console.log("this condition is false")
 }
+
+
+if("false"){
+    console.log("i am not false")
+}
+else{
+    console.log("false")
+}

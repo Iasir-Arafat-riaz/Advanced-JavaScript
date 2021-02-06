@@ -1,16 +1,23 @@
-//slice 
-const number= [11,12,14,52,44,77,19,29,81,87]
-const part= number.slice(2,6)
-console.log(part)
-console.log(number);
+// //slice 
+// const number= [11,12,14,52,44,77,19,29,81,87]
+// const part= number.slice(2,6)
+// console.log(part)
+// console.log(number);
 
-//splice
+// //splice
 
-const splicePart= number.splice(3,4);
-console.log(splicePart);
-console.log(number);
+// const splicePart= number.splice(3,4);
+// console.log(splicePart);
+// console.log(number);
 
-//join
+// //join
 
-const together = number.join("+")
-console.log(together);
+// const together = number.join("+")
+// console.log(together);
+
+if("false"){
+    console.log("i am not false")
+}
+else{
+    console.log("false")
+}
